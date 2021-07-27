@@ -1,1 +1,1 @@
-# versioncheck
+Version 1
